@@ -11,7 +11,7 @@ Channel08="Cold NMR Deuteron"
 Channel09="Top Xenon"
 
 [Top Deuteron]
-ScanSweeps=500    
+ScanSweeps=100    
 ScanSteps=500    
 ScanFreq=15287    
 ScanIntv=100    
@@ -61,8 +61,8 @@ RFPower=275
 YaleGain=0    
 QMeterNum=7    
 QMeterName="CH7"
-CalConst=-6.538683    
-Baseline=1711117942    
+CalConst=-4.579000    
+Baseline=1714080634    
 ScanGain=1    
 ScanADCChan=1    
 ScanDACChan=0    
@@ -71,7 +71,7 @@ QMeterTempChan=6
 Material=""
 
 [CH8]
-ScanSweeps=200    
+ScanSweeps=100    
 ScanSteps=500    
 ScanFreq=15287    
 ScanIntv=100    
@@ -81,8 +81,8 @@ RFPower=275
 YaleGain=0    
 QMeterNum=8    
 QMeterName="CH8"
-CalConst=-14.239750    
-Baseline=1711117413    
+CalConst=-19.980000    
+Baseline=1714080991    
 ScanGain=1    
 ScanADCChan=2    
 ScanDACChan=0    
@@ -91,7 +91,7 @@ QMeterTempChan=6
 Material=""
 
 [CH9]
-ScanSweeps=100    
+ScanSweeps=200    
 ScanSteps=500    
 ScanFreq=15287    
 ScanIntv=100    
@@ -101,8 +101,8 @@ RFPower=275
 YaleGain=0    
 QMeterNum=9    
 QMeterName="CH9"
-CalConst=-2.377120    
-Baseline=0    
+CalConst=-9.169000    
+Baseline=1714081399    
 ScanGain=1    
 ScanADCChan=3    
 ScanDACChan=0    
