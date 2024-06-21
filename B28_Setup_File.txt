@@ -7,7 +7,7 @@ QMeter Channels=0,1,2,3,4,5
 Yale Device=4
 Yale Channels=6,7,8
 Scan Device=3
-Data Suppliers=SCM,TTM,MWC,SMC
+Data Suppliers=TTM
 Monitor Delay=60
 
 [TEB]
